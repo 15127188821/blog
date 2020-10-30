@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "不是酸柠檬-李佳朋关注web前端技术-web前端博客",
-  "description": "不是酸柠檬的博客，web前端博客，专注JavaScript、Vue、HTML+CSS、Git",
+  "title": "不是酸柠檬的web博客",
+  "description": "不是酸柠檬的博客，web前端博客，专注JavaScript、Vue、HTML+CSS、Git，关注学习web前端",
   "dest": "public",
   "base":"/blog/",
   "head": [
@@ -43,6 +43,11 @@ module.exports = {
         ]
       },
       {
+        "text": "关于",
+        "icon": "reco-message",
+        "link": "/about/",
+      },
+      {
         "text": "Contact",
         "icon": "reco-message",
         "items": [
@@ -54,14 +59,20 @@ module.exports = {
         ]
       }
     ],
-    // "sidebar": {
-    //   "/docs/theme-reco/": [
-    //     "",
-    //     "theme",
-    //     "plugin",
-    //     "api"
-    //   ]
-    // },
+    "sidebar": {
+      "/about/": [
+        "",
+        "theme",
+        "plugin",
+        "api"
+      ],
+      "/docs/theme-reco/": [
+        "",
+        "theme",
+        "plugin",
+        "api"
+      ]
+    },
     "type": "blog",
     "blogConfig": {
       "category": {

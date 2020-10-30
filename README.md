@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 不是酸柠檬的博客
+tagline: 靡不有初、鲜克有终
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
