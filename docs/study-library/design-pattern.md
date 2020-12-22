@@ -2,9 +2,7 @@
 title: 设计模式
 date: 2020-05-27
 ---
-## 九 参考文献
-
-本系列参考 14 篇文章。
+## 参考文献
 
 * [ ] [设计模式](https://juejin.im/post/6844904116552990727#heading-59)【阅读建议：1h】
 * [ ] [Javascript常用的设计模式详解](https://www.cnblogs.com/tugenhua0707/p/5198407.html)【阅读建议：1h】

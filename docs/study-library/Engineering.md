@@ -1,13 +1,8 @@
 ---
-title: 工程化
+title: 前端工程化
 date: 2020-05-27
 ---
-
-### 三 参考文献
-
-本系列参考文献有 79 篇.
-
-### 3.1 杂
+### 杂
 
 **2020**：
 
@@ -27,7 +22,7 @@ date: 2020-05-27
 * [ ][网页图片加载优化方案](https://zhuanlan.zhihu.com/p/33370207)【阅读建议：20min】
 * [ ][如何优雅处理前端异常](https://zhuanlan.zhihu.com/p/51800345)【阅读建议：30min】
 
-### 3.2 Babel
+### Babel
 
 * [ ][一篇文章了解前端开发必须懂的 Babel](https://mp.weixin.qq.com/s/C-WmM5tjfc3r4sB52C4R0Q)【阅读建议：10min】
 * [ ][不容错过的 Babel7 知识](https://juejin.im/post/5ddff3abe51d4502d56bd143)【阅读建议：30min】
@@ -39,13 +34,13 @@ date: 2020-05-27
 * [ ][面试官: 你了解过Babel吗？写过Babel插件吗? 答: 没有。卒](https://juejin.im/post/6844903566809759758)【阅读建议：10min】
 * [ ][入门babel--实现一个es6的class转换器](https://juejin.im/post/6844903586950807560)【阅读建议：10min】
 
-### 3.3 模板引擎
+### 模板引擎
 
 * [ ][编写一个简单的JavaScript模板引擎](https://www.liaoxuefeng.com/article/1006272230979008)【阅读建议：5min】
 * [ ][JavaScript模板引擎原理，几行代码的事儿](https://www.cnblogs.com/hustskyking/p/principle-of-javascript-template.html)阅读建议：10min】
 * [ ][Vue 模板编译原理](https://github.com/berwin/Blog/issues/18)【阅读建议：30min】
 
-### 3.4 前端监控
+### 前端监控
 
 * [ ][5 分钟撸一个前端性能监控工具](https://juejin.im/post/5b7a50c0e51d4538af60d995)【阅读建议：10min】
 * [ ][把前端监控做到极致](https://zhuanlan.zhihu.com/p/32262716)【阅读建议：10min】
@@ -54,11 +49,11 @@ date: 2020-05-27
 * [ ][腾讯CDC团队：前端异常监控解决方案](https://mp.weixin.qq.com/s/W0i-Iu6nqkWttsGZ-RmOqw)【阅读建议：20min】
 * [ ][把前端监控做到极致](https://zhuanlan.zhihu.com/p/32262716)【阅读建议：10min】
 
-### 四 Webpack 参考文献
+### Webpack
 
 Webpack 系列参考文献有 52 篇文章。
 
-### 4.1 Webpack 系列文章
+### Webpack 系列文章
 
 **其他**：
 
@@ -102,7 +97,7 @@ Webpack 系列参考文献有 52 篇文章。
 
 * [ ][Webpack 源码（一）—— Tapable 和 事件流](https://segmentfault.com/a/1190000008060440)【阅读建议：10min】
 
-### 4.2 Webpack 性能优化
+### Webpack 性能优化
 
 **2019 年文章**：
 
@@ -128,20 +123,20 @@ Webpack 系列参考文献有 52 篇文章。
 * [ ][加速Webpack-缩小文件搜索范围](https://imweb.io/topic/5a40551ea192c3b460fce335)【阅读建议：5min】
 * [ ][Webpack 大法之 Code Splitting](https://zhuanlan.zhihu.com/p/26710831)【阅读建议：5min】
 
-### 4.3 Scope Hoisting
+### Scope Hoisting
 
 * [ ][webpack 的 scope hoisting 是什么？](https://ssshooter.com/2019-02-20-webpack-scope-hoisting/)【阅读建议：5min】
 * [ ][通过Scope Hoisting优化Webpack输出](https://imweb.io/topic/5a43064fa192c3b460fce360)【阅读建议：5min】
 * [ ][【Webpack】654- 了不起的 Webpack Scope Hoisting 学习指南](https://cloud.tencent.com/developer/article/1663231)【阅读建议：5min】
 
-### 4.4 Tree Shaking
+### Tree Shaking
 
 * [ ][Tree Shaking - Webpack 5.0.0-rc.0](https://webpack.docschina.org/guides/tree-shaking/)【阅读建议：仅供参考】
 * [ ][Webpack 4 Tree Shaking 终极优化指南](https://www.cnblogs.com/lzkwin/p/11878509.html)【阅读建议：30min】
 * [ ][Tree-Shaking性能优化实践 - 原理篇 - 2018](https://juejin.im/post/6844903544756109319)【阅读建议：仅供参考】
 * [ ][Webpack4: Tree-shaking 深度解析 - 2019](https://juejin.im/post/6844903777229635598)【阅读建议：仅供参考】
 
-### 4.5 懒加载
+### 懒加载
 
 * [ ][Vue Webpack 打包优化——路由懒加载（按需加载）原理讲解及使用方法说明](https://blog.csdn.net/weixin_44869002/article/details/106288371)【阅读建议：20min】
 * [ ][懒加载 - Webpack v5.0.0-rc.0](https://webpack.docschina.org/guides/lazy-loading/)【阅读建议：5min】

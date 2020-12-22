@@ -4,9 +4,6 @@ date: 2020-05-28
 ---
 
 
-## 参考文献
-
-本系列参考 8 篇文章。
 
 * [ ] [MDN - HTML5 标签列表](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5/HTML5_element_list)【阅读建议：5min】
 * [ ] [html5语义化标签](https://rainylog.com/post/ife-note-1)【阅读建议：5min】

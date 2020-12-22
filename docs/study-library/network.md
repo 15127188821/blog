@@ -2,16 +2,14 @@
 title: 计算机网络
 date: 2020-05-27
 ---
-## 三 参考文献
+## 参考文献
 
-本系列有 `62` 篇参考文献。
-
-### 3.1 系统
+### 系统
 
 * [ ] [(建议收藏)TCP协议灵魂之问，巩固你的网路底层基础](https://juejin.im/post/6844904021308735502)【阅读建议：4hour】
 * [ ] [(建议精读)HTTP灵魂之问，巩固你的 HTTP 知识体系](https://juejin.im/post/6844904100035821575)【阅读建议：1hour】
 
-### 3.2 网络安全
+### 网络安全
 
 * [ ] [常见 Web 安全攻防总结](https://zoumiaojiang.com/article/common-web-security/)【阅读建议：1hour】
 * [ ] [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)【阅读建议：20min】
@@ -23,7 +21,7 @@ date: 2020-05-27
 * [ ] [可信前端之路：代码保护](https://www.freebuf.com/articles/web/102269.html)【阅读建议：10min】
 * [ ] [前端如何给 JavaScript 加密（不是混淆）？](https://www.zhihu.com/question/47047191)【阅读建议：10min】
 
-### 3.3 HTTP
+### HTTP
 
 * [ ] [面试带你飞：这是一份全面的 计算机网络基础 总结攻略](https://juejin.im/post/6844903592965439501)【阅读建议：1h】
 * [ ] [看图学HTTPS](https://juejin.im/post/6844903608421449742)【阅读建议：30min】
@@ -54,20 +52,20 @@ date: 2020-05-27
 * [ ] [听说『99% 的人都理解错了 HTTP 中 GET 与 POST 的区别』？？](https://zhuanlan.zhihu.com/p/25028045)【阅读建议：争议文】
 * [ ] [你敢在post和get上刁难我，就别怪我装逼了](https://juejin.im/post/6844903508370538503)【阅读建议：争议文】
 
-### 3.4 MD5
+### MD5
 
 * [ ] [md5加密与解密](https://zhuanlan.zhihu.com/p/58888121)【阅读建议：30min】
 * [ ] [C#：使用MD5对用户密码加密与解密](https://www.cnblogs.com/healer007/p/5062189.html)【阅读建议：10min】
 * [ ] [md5会有重复的可能吗？](https://www.zhihu.com/question/23189202)
 
-### 3.5 DNS
+### DNS
 
 * [ ] [DNS 解析顺序](https://blog.csdn.net/Yooneep/article/details/89882123)【阅读建议：5min】
 * [ ] [写给前端工程师的DNS基础知识](http://www.sunhao.win/articles/netwrok-dns.html)【阅读建议：10min】
 * [ ] [前端优化: DNS预解析提升页面速度](https://www.jianshu.com/p/95a0c0636d28)【阅读建议：5min】
 * [ ] [DNS解析](https://imweb.io/topic/55e3ba46771670e207a16bc8)【阅读建议：10min】
 
-### 3.6 TCP
+### TCP
 
 * [ ] [面试官，不要再问我三次握手和四次挥手](https://zhuanlan.zhihu.com/p/86426969)【阅读建议：1hour】
 * [ ] [关于三次握手与四次挥手面试官想考我们什么](https://juejin.im/post/6844903834708344840)【阅读建议：20min】
@@ -76,20 +74,20 @@ date: 2020-05-27
 * [ ] [面试时，你被问到过 TCP/IP 协议吗?](https://juejin.im/post/58e36d35b123db15eb748856)【阅读建议：20min】
 * [ ] [“三次握手，四次挥手”你真的懂吗？](https://zhuanlan.zhihu.com/p/53374516)【阅读建议：20min】
 
-### 3.7 CDN
+### CDN
 
 * [ ] [五分钟了解CDN](https://juejin.im/post/5afa449c51882542ba07e70e)【阅读建议：10min】
 * [ ] [漫话：如何给女朋友解释什么是CDN？](https://juejin.im/post/5d478c48e51d453c135c5a5c)【阅读建议：20min】
 * [ ] [关于 cdn、回源等问题一网打尽](https://juejin.im/post/5af46498f265da0b8d41f6a3)【阅读建议：10min】
 * [ ] [CDN是什么？使用CDN有什么优势？](https://www.zhihu.com/question/36514327?rf=37353035)【阅读建议：10min】
 
-### 3.8 WebSocket
+### WebSocket
 
 * [ ] [websocket 与Socket.IO介绍](https://www.cnblogs.com/mazg/p/5467960.html)【阅读建议：10min】
 * [ ] [WebSocket 与 Socket.IO](https://zhuanlan.zhihu.com/p/23467317)【阅读建议：10min】
 * [ ] [Websocket和Socket.io的区别及应用](https://www.jianshu.com/p/970dcfd174dc)【阅读建议：20min】
 
-### 3.9 其他
+### 其他
 
 * [ ] [正向代理与反向代理【总结】](https://www.cnblogs.com/Anker/p/6056540.html)【阅读建议：10min】
 * [ ] [你真的了解 Cookie 和 Session 吗](https://juejin.im/post/6844903842773991431)【阅读建议：10min】

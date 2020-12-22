@@ -4,11 +4,9 @@ date: 2020-05-27
 ---
 
 
-## 三 参考文献
+## 参考文献
 
-本系列参考文章有 198 篇。
-
-### 3.1 系统
+### 系统
 
 * [ ] [JavaScript深入系列15篇正式完结！](https://juejin.im/post/6844903479429824526)【阅读建议：2h】
 * [ ] [[译] 送你 43 道 JavaScript 面试题](https://juejin.im/post/6844903869378461710)【阅读建议：1h】
@@ -19,11 +17,11 @@ date: 2020-05-27
 * [ ] [灵魂之问(下) - 转载地址](https://blog.csdn.net/qq_36696468/article/details/103397167)【阅读建议：2h】
 * [ ] [编写自己的代码库（javascript常用实例的实现与封装）](https://juejin.im/post/6844903520596918280)【阅读建议：2h】
 
-### 3.2 基础
+### 基础
 
 * [ ] [MDN - Array](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array)【阅读建议：10min】
 * [ ] [JavaScript 数据类型和数据结构](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures)【阅读建议：5min】
-* [ ] [JavaScript: 变量提升和函数提升](https://www.cnblogs.com/liuhe688/p/5891273.html)【阅读建议：10min】
+* [ ] [JavaScript: 变量提升和函数提升](https://www.cnblogs.com/liuhe688/p/589127ml)【阅读建议：10min】
 * [ ] [变量提升必须注意的问题](https://blog.csdn.net/wu_xianqiang/article/details/78966755)【阅读建议：5min】
 * [ ] [笔试题-Js前端变量提升的问题](https://blog.csdn.net/silence_xiang/article/details/106784692)【阅读建议：5min】
 * [ ] [关于JS变量提升的一些坑](https://www.cnblogs.com/luqin/p/5164132.html)【阅读建议：5min】
@@ -31,7 +29,7 @@ date: 2020-05-27
 * [ ] [JS 中对变量类型的判断](https://www.cnblogs.com/zhangruiqi/p/8027338.html)【阅读建议：10min】
 * [ ] [js中块级作用域以及函数作用域之间有什么区别？（代码解析）](https://www.php.cn/js-tutorial-408430.html)【阅读建议：5min】
 
-### 3.3 ECMAScript
+### ECMAScript
 
 * [ ] [1.5万字概括ES6全部特性(已更新ES2020)](https://juejin.im/post/5d9bf530518825427b27639d)【阅读建议：1h】
 * [ ] [ES6、ES7、ES8特性一锅炖(ES6、ES7、ES8学习指南)](https://juejin.im/post/6844903679976275976)【阅读建议：1h】
@@ -39,7 +37,7 @@ date: 2020-05-27
 * [ ] [ES9已经来了 Are you ready?](https://juejin.im/post/6844903652348395533)【阅读建议：30min】
 * [ ] [ECMAScript 6 六级考试](https://zhuanlan.zhihu.com/p/29214240)【阅读建议：30min】
 
-### 3.4 执行上下文/作用域链/闭包
+### 执行上下文/作用域链/闭包
 
 * [ ] [理解 JavaScript 中的执行上下文和执行栈](https://juejin.im/post/6844903682283143181)【阅读建议：20min】
 * [ ] [JavaScript深入之执行上下文栈](https://github.com/mqyqingfeng/Blog/issues/4)【阅读建议：10min】
@@ -54,7 +52,7 @@ date: 2020-05-27
 * [ ] [发现 JavaScript 中闭包的强大威力](https://juejin.im/post/5c4e6a90e51d4552266576d2)【阅读建议：10min】
 * [ ] [JavaScript闭包的底层运行机制](http://blog.leapoahead.com/2015/09/15/js-closure/)【阅读建议：20min】
 * [ ] [我从来不理解JavaScript闭包，直到有人这样向我解释它...](https://zhuanlan.zhihu.com/p/56490498)【阅读建议：10min】
-* [ ] [破解前端面试（80% 应聘者不及格系列）：从闭包说起](https://juejin.im/post/6844903474212143117)【阅读建议：10min】### 3.5 this* [ ] [再来40道this面试题酸爽继续](https://juejin.im/post/6844904083707396109)【阅读建议：1h】
+* [ ] [破解前端面试（80% 应聘者不及格系列）：从闭包说起](https://juejin.im/post/6844903474212143117)【阅读建议：10min】### this* [ ] [再来40道this面试题酸爽继续](https://juejin.im/post/6844904083707396109)【阅读建议：1h】
 * [ ] [this,this,再次讨论javascript中的this,超全面](https://www.cnblogs.com/painsOnline/p/5102359.html)【阅读建议：10min】
 * [ ] [JavaScript中的this](https://juejin.im/post/59748cbb6fb9a06bb21ae36d)【阅读建议：10min】
 * [ ] [JavaScript深入之从ECMAScript规范解读this](https://github.com/mqyqingfeng/Blog/issues/7)【阅读建议：20min】
@@ -67,7 +65,7 @@ date: 2020-05-27
 * [ ] [由React构造函数中bind引起的this指向理解（React组件的方法为什么要用bind绑定this）](https://blog.csdn.net/AiHuanhuan110/article/details/106424812)【阅读建议：20min】
 * [ ] [React中this.handleClick = this.handleClick.bind(this)中的this指向问题](https://blog.csdn.net/yiersan__/article/details/108004911)【阅读建议：10min】
 
-### 3.6 原型/继承
+### 原型/继承
 
 
 
@@ -86,7 +84,7 @@ date: 2020-05-27
 * [ ] [最详尽的 JS 原型与原型链终极详解，没有「可能是」。（二）](https://www.jianshu.com/p/652991a67186)【阅读建议：高程书摘取，经第一篇后不继续往后看】
 * [ ] [最详尽的 JS 原型与原型链终极详解，没有「可能是」。（三）](https://www.jianshu.com/p/a4e1e7b6f4f8)【阅读建议：高程书摘取，经第一篇后不继续往后看】
 
-### 3.7 函数式编程
+### 函数式编程
 
 
 
@@ -96,7 +94,7 @@ date: 2020-05-27
 * [ ] [JavaScript 函数式编程到底是个啥](https://segmentfault.com/a/1190000009864459)【阅读建议：10min】
 * [ ] [JavaScript-函数式编程](https://github.com/ecmadao/Coding-Guide/blob/master/Notes/JavaScript/JavaScript%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.md)【阅读建议：10min】
 
-### 3.8 Service Worker / PWA
+### Service Worker / PWA
 
 
 
@@ -104,7 +102,7 @@ date: 2020-05-27
 * [ ] [借助Service Worker和cacheStorage缓存及离线开发](https://www.zhangxinxu.com/wordpress/2017/07/service-worker-cachestorage-offline-develop/)【阅读建议：30min】
 * [ ] [面试官：请你实现一个PWA](https://juejin.im/post/5e26aa785188254c257c462d)【阅读建议：30min】
 
-### 3.9 DOM
+### DOM
 
 
 
@@ -112,7 +110,7 @@ date: 2020-05-27
 * [ ] [原生JS中DOM节点相关API合集](https://microzz.com/2017/04/06/jsdom/)【阅读建议：10min】
 * [ ] [dom里各种尺寸区别（offsetWidth，scrollWidth，clientWidth，innerWidth....）](https://github.com/pramper/Blog/issues/10)【阅读建议：10min】
 
-### 3.10 正则表达式
+###  正则表达式
 
 
 
@@ -120,7 +118,7 @@ date: 2020-05-27
 * [ ] [可能是最好的正则表达式的教程笔记了吧...](https://juejin.im/post/6844903648309297166)【阅读建议：30min】
 * [ ] [正则表达式不要背](https://juejin.im/post/6844903845227659271)【阅读建议：10min】
 
-### 3.11 WebSocket
+###  WebSocket
 
 
 
@@ -128,7 +126,7 @@ date: 2020-05-27
 * [ ] [socket.io让每个人都可以开发属于自己的即时通讯](https://juejin.im/post/6844903700905852936)【阅读建议：1h】
 * [ ] [WebSocket 是什么原理？为什么可以实现持久连接](https://juejin.im/entry/6844903592525037576)【阅读建议：10min】
 
-### 3.12 路由/URL
+###  路由/URL
 
 
 
@@ -137,7 +135,7 @@ date: 2020-05-27
 * [ ] [前端路由原理解析和实现](https://juejin.im/post/6844903842643968014)【阅读建议：30min】
 * [ ] [前端必知必会--操作URL的黑科技](https://juejin.im/post/6844903865767165959)【阅读建议：10min】
 
-### 3.13 模块化
+###  模块化
 
 
 
@@ -146,7 +144,7 @@ date: 2020-05-27
 * [ ] [import、require、export、module.exports 混合使用详解](https://juejin.im/post/6844903520865386510)【阅读建议：30min】
 * [ ] [开发更好用的 JavaScript 模块](https://zhuanlan.zhihu.com/p/31499310)【阅读建议：5min】
 
-### 3.14 JS 技巧
+###  JS 技巧
 
 
 
@@ -154,7 +152,7 @@ date: 2020-05-27
 * [ ] [一个合格的中级前端工程师需要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/6844903856489365518)【阅读建议：30min】
 * [ ] [JavaScript 实用技巧和写法建议](https://juejin.im/post/6844903526796099591)【阅读建议：20min】
 
-### 3.15 原理/垃圾回收
+###  原理/垃圾回收
 
 
 
@@ -164,7 +162,7 @@ date: 2020-05-27
 * [ ] [JavaScript的环境模型](https://mp.weixin.qq.com/s/rOxvYS7MdnPAX7FGjpOXnw)【阅读建议：10min】
 * [ ] [AST抽象语法树——最基础的javascript重点知识，99%的人根本不了解](https://juejin.im/entry/6844903668492435470)【阅读建议：10min】
 
-### 3.16 其他
+###  其他
 
 
 
@@ -185,7 +183,7 @@ date: 2020-05-27
 * [ ] [抱歉，学会 Proxy 真的可以为所欲为](https://zhuanlan.zhihu.com/p/35080324)【阅读建议：20min】
 * [ ] [Javascript 面试中经常被问到的三个问题！](https://segmentfault.com/a/1190000018257074)【阅读建议：10min】
 
-### 3.17 手写系列文章
+###  手写系列文章
 
 
 
@@ -208,7 +206,7 @@ date: 2020-05-27
 * [ ] [如何在 JavaScript 中更好地使用数组](https://juejin.im/post/6844903671646715911)【阅读建议：10min】
 * [ ] [7种方法实现数组去重](https://juejin.im/post/6844903602197102605)【阅读建议：20min】
 
-### 3.18 手写 call/bind/apply
+###  手写 call/bind/apply
 
 
 
@@ -223,7 +221,7 @@ date: 2020-05-27
 * [ ] [JavaScript基础心法—— call apply bind](https://github.com/axuebin/articles/issues/7)【阅读建议：20min】
 * [ ] [回味JS基础:call apply 与 bind](https://juejin.im/post/57dc97f35bbb50005e5b39bd)【阅读建议：10min】
 
-### 3.19 手写深拷贝和浅拷贝
+###  手写深拷贝和浅拷贝
 
 
 
@@ -237,7 +235,7 @@ date: 2020-05-27
 * [ ] [面试题之如何实现一个深拷贝](https://github.com/yygmind/blog/issues/29)【阅读建议：30min】
 * [ ] [面试官:请你实现一个深克隆](https://juejin.im/post/6844903584023183368)【阅读建议：10min】
 
-### 3.20 手写 Promise
+###  手写 Promise
 
 
 
@@ -250,7 +248,7 @@ date: 2020-05-27
 * [ ] [小邵教你玩转promise源码](https://juejin.im/post/6844903655418626061)【建议阅读：写得比较细，没前面剖析的清晰】
 * [ ] [Promise不会？？看这里！！！史上最通俗易懂的Promise！！！](https://juejin.im/post/6844903607968481287)【建议阅读：写得比较细，没前面剖析的清晰】
 
-### 3.21 异步系列
+###  异步系列
 
 
 
@@ -260,7 +258,7 @@ date: 2020-05-27
 * [ ] [理解异步之美：Promise 与 async await（二）](https://juejin.im/post/6844903661789773831)【20min】
 * [ ] [[完结篇] - 理解异步之美 --- promise与async await （三）](https://juejin.im/post/6844903664209887246)【20min】
 
-### 3.22 异步：Event Loop
+###  异步：Event Loop
 
 
 
@@ -282,7 +280,7 @@ date: 2020-05-27
 * [ ] [JavaScript 性能利器 —— Web Worker](https://juejin.im/post/5c10e5a9f265da611c26d634)【阅读建议：10min】
 * [ ] [浏览器进程？线程？傻傻分不清楚！](https://imweb.io/topic/58e3bfa845e5c13468f567d5)【阅读建议：5min】
 
-### 3.23 异步：Promise
+###  异步：Promise
 
 
 

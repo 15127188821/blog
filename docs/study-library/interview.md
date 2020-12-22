@@ -4,7 +4,7 @@ date: 2020-05-28
 ---
 
 
-### 6.1 博客
+### 博客
 
 * [Github：LinDaiDai/niubility-coding-js【霖呆呆】](https://github.com/LinDaiDai/niubility-coding-js)
 * [博客园：吕大豹](https://www.cnblogs.com/lvdabao/)
@@ -20,7 +20,7 @@ date: 2020-05-28
 * [冴羽的博客](https://github.com/mqyqingfeng/Blog)
 * [神三元的博客](http://47.98.159.95/my_blog/nav/) || [神三元的 Github](https://github.com/sanyuan0704/my_blog)
 
-### 6.2 面试题 + 含题解
+### 面试题 + 含题解
 
 如果一开始不知道看啥，可以先看这些文章（带答案的），对一些内容有个大致印象。
 
@@ -48,7 +48,7 @@ date: 2020-05-28
 * [ ] [面试的信心来源于过硬的基础](https://segmentfault.com/a/1190000013331105)【阅读建议：20min】
 * [ ] [2018阿里巴巴前端面试总结](https://juejin.im/post/6844903580860678158)【阅读建议：20min】
 
-### 6.3 面试题 + 不含题解
+### 面试题 + 不含题解
 
 有些没答案的也很精彩，可以去看看这些知识点自己懂不懂。
 
